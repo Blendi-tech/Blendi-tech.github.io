@@ -1,0 +1,209 @@
+body {
+	margin: 0px;
+}
+#header {
+	padding-top: 6px;
+	width: 100%;
+	height: 30px;
+	background-color: #5B4477;
+}
+#tel {
+	margin-left: 50px;
+	width: 400px;
+	float: left;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: flex-start;
+	align-content: stretch;
+}
+@keyframes teksti {
+  from {color: black;}
+  to {color: white;}
+}
+#t {
+	color: black;
+	text-decoration: none;
+	padding-right: 20px;
+		animation-name: teksti;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+#t1 {
+	color: black;
+	text-decoration: none;
+	padding-right: 20px;
+		animation-name: teksti;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+#l1 {
+	padding-right: 5px;
+}
+#l2 {
+	padding-right: 5px;
+}
+#logo {
+	width: 130px;
+	float: right;
+	margin-right: 50px;
+	display: inline-flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: stretch;
+	align-content: stretch;
+}
+p {
+	display: inline;
+}
+#title {
+	margin-bottom: 0px;
+	margin-left: 80px;
+	margin-right: 100px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: flex-start;
+	align-content: stretch;
+}
+#titlef{
+	display: inline;
+}
+#titlet {
+	display: inline;
+	padding-top: 40px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	margin-right: 120px;
+	color: #9D6A27;
+	font-size: 50px;
+	font-weight: 80;
+	letter-spacing: 6px;
+	font-family: 'Xanh Mono', monospace;
+}
+#a {
+	text-align: center;
+	height: 20px;
+	padding-top: 140px;
+	text-decoration: none;
+	color: gray;
+	font-size: 17px;
+}
+#a1 {
+	text-align: center;
+	height: 20px;
+	padding-top: 140px;
+	text-decoration: none;
+	color: gray;
+	font-size: 17px;
+}
+#a2 {
+	text-align: center;
+	height: 20px;
+	padding-top: 140px;
+	text-decoration: none;
+	color: gray;
+	font-size: 17px;
+}
+#a3 {
+	text-align: center;
+	height: 20px;
+	padding-top: 140px;
+	text-decoration: none;
+	color: gray;
+	font-size: 17px;
+}
+#a4 {
+	text-align: center;
+	height: 20px;
+	padding-top: 140px;
+	text-decoration: none;
+	color: gray;
+	font-size: 17px;
+}
+
+#meny {
+	margin-bottom: 0px;
+	margin-right: 140px;
+	height: 0px;
+	width: 500px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+}
+#rezervobox {
+	position: relative;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	height: 569px;
+}
+
+#rezervo {
+	display: inline-block;
+	position: absolute;
+  bottom: 60px;
+  right: 20px;
+  background-color: black;
+  opacity: 65%;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+}
+#fild {
+	font-size: 20px;
+	margin-left: 155px;
+}
+fieldset {
+	margin-top: 15px;
+}
+li {
+	justify-content: center;
+	margin-left: 190px;
+}
+h4 {
+	margin-right: 10px;
+	margin-left: 20px;
+	display: inline-block;
+	justify-content: center;
+}
+#pref {
+	margin-left: 140px;
+}
+#datar {
+	margin-left: 130px;
+}
+#buton {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 20px;
+	font-size: 18px;
+	margin-left: 170px; 
+}
+#emri {
+	margin-left: 100px;
+}
+#mbiemri {
+	margin-left: 75px;
+}
+#bottom {
+	width: 100%;
+	height: 26px;
+	background-color: #24103C;
+	margin-top: 0px;
+	text-align: center;
+	color: whitesmoke;
+	padding-top: 4px;
+	font-size: 13px;
+	letter-spacing: 3px;
+}
+
