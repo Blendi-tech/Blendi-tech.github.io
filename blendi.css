@@ -89,7 +89,7 @@ p {
 #a {
 	text-align: center;
 	height: 20px;
-	padding-top: 140px;
+	padding-top: 80px;
 	text-decoration: none;
 	color: gray;
 	font-size: 17px;
@@ -97,7 +97,7 @@ p {
 #a1 {
 	text-align: center;
 	height: 20px;
-	padding-top: 140px;
+	padding-top: 80px;
 	text-decoration: none;
 	color: gray;
 	font-size: 17px;
@@ -105,7 +105,7 @@ p {
 #a2 {
 	text-align: center;
 	height: 20px;
-	padding-top: 140px;
+	padding-top: 80px;
 	text-decoration: none;
 	color: gray;
 	font-size: 17px;
@@ -113,7 +113,7 @@ p {
 #a3 {
 	text-align: center;
 	height: 20px;
-	padding-top: 140px;
+	padding-top: 80px;
 	text-decoration: none;
 	color: gray;
 	font-size: 17px;
@@ -121,7 +121,7 @@ p {
 #a4 {
 	text-align: center;
 	height: 20px;
-	padding-top: 140px;
+	padding-top: 80px;
 	text-decoration: none;
 	color: gray;
 	font-size: 17px;
@@ -129,14 +129,14 @@ p {
 
 #meny {
 	margin-bottom: 0px;
-	margin-right: 140px;
+	margin-right: 120px;
 	height: 0px;
 	width: 500px;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: space-between;
-	align-items: center;
+	align-items: stretch;
 	align-content: center;
 	text-align: center;
 }
