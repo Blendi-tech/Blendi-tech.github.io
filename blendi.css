@@ -188,7 +188,8 @@ h4 {
 	border-radius: 20px;
 	font-size: 18px;
 	margin-left: 170px; 
-	background-color: skyblue;
+	background-color: #0780D5;
+	color: white;
 }
 #emri {
 	margin-left: 100px;
@@ -208,6 +209,7 @@ h4 {
 	letter-spacing: 3px;
 }
 #shtof {
-	background-color: skyblue;
+	background-color: #0780D5;
+	color: white;
 }
 
