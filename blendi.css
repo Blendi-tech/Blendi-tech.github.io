@@ -40,11 +40,23 @@ body {
 	animation-iteration-count: infinite;
 	animation-direction: alternate;
 }
-#l1 {
-	padding-right: 5px;
+#fb {
+	filter: grayscale(100%);
 }
-#l2 {
-	padding-right: 5px;
+#tw {
+	filter: grayscale(100%);
+}
+#yo {
+	filter: grayscale(100%);
+}
+#fb:hover {
+	filter: none;
+}
+#tw:hover {
+	filter: none;
+}
+#yo:hover {
+	filter: none;
 }
 #logo {
 	width: 130px;
@@ -89,42 +101,62 @@ p {
 #a {
 	text-align: center;
 	height: 20px;
-	padding-top: 80px;
+	padding-top: 60px;
 	text-decoration: none;
 	color: gray;
 	font-size: 17px;
+}
+#a:hover {
+	color: #5B4477;
+	border-bottom: 3px solid #5B4477;
 }
 #a1 {
 	text-align: center;
 	height: 20px;
-	padding-top: 80px;
+	padding-top: 60px;
 	text-decoration: none;
 	color: gray;
 	font-size: 17px;
+}
+#a1:hover {
+	color: #5B4477;
+	border-bottom: 3px solid #5B4477;
 }
 #a2 {
 	text-align: center;
 	height: 20px;
-	padding-top: 80px;
+	padding-top: 60px;
 	text-decoration: none;
 	color: gray;
 	font-size: 17px;
+}
+#a2:hover {
+	color: #5B4477;
+	border-bottom: 3px solid #5B4477;
 }
 #a3 {
 	text-align: center;
 	height: 20px;
-	padding-top: 80px;
+	padding-top: 60px;
 	text-decoration: none;
 	color: gray;
 	font-size: 17px;
 }
+#a3:hover {
+	color: #5B4477;
+	border-bottom: 3px solid #5B4477;
+}
 #a4 {
 	text-align: center;
 	height: 20px;
-	padding-top: 80px;
+	padding-top: 60px;
 	text-decoration: none;
 	color: gray;
 	font-size: 17px;
+}
+#a4:hover {
+	color: #5B4477;
+	border-bottom: 3px solid #5B4477;
 }
 
 #meny {
