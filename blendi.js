@@ -87,19 +87,6 @@ shtob.addEventListener("click", text);
 
 
 
-// let fotos = 0;
-// slides();
-
-// function slides() {
-// 	let foto = document.getElementsByClassName("backgroundimg");
-// 	for (i = 0; i < foto.length; i++) {
-// 		foto[i].style.display = "none";
-// 	}
-// 	  fotos++;
-//   if (fotos > foto.length) {fotos = 1}    
-//   foto[fotos-1].style.display = "block";  
-//   setTimeout(slides, 3000);
-// }
 
 let fotos = 0;
 slides();
