@@ -75,7 +75,7 @@ p {
 #title {
 	margin-bottom: 0px;
 	margin-left: 80px;
-	margin-right: 100px;
+	margin-right: 0px;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
@@ -90,8 +90,9 @@ p {
 	display: inline;
 	padding-top: 40px;
 	padding-bottom: 0px;
+	padding-right: 60px;
 	margin-bottom: 0px;
-	margin-right: 120px;
+	margin-right: 0px;
 	color: #9D6A27;
 	font-size: 50px;
 	font-weight: 80;
@@ -178,7 +179,11 @@ p {
 	padding-bottom: 0px;
 	height: 569px;
 }
-
+#radiowp {
+	position: absolute;
+	bottom: 15px;
+	left: 48%;
+}
 #rezervo {
 	display: inline-block;
 	position: absolute;
@@ -243,5 +248,8 @@ h4 {
 #shtof {
 	background-color: #0780D5;
 	color: white;
+}
+#menyimg {
+	display: none;
 }
 

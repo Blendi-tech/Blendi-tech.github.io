@@ -101,3 +101,11 @@ function slides() {
 	foto[fotos-1].style.display = "block";
 	setTimeout(slides, 3000);
 }
+
+// let foto = document.getElementsByClassName("backgroundimg");
+// let wp = document.getElementById('wp');
+
+// i=0;
+// for (i = 0; i < foto.length; i++);
+// if (foto[i].style.display = "block") {wp.checked = true}
+// 	else {wp.checked = false};
